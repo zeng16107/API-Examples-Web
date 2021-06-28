@@ -16,7 +16,7 @@
     "build": "cross-env NODE_ENV=production webpack --config ./scripts --mode production"
   },
   "dependencies": {
-    "agora-rtc-sdk": "^2.8.0",
+    "agora-rtc-sdk": "^3.0.5",
     "jquery": "^3.4.1",
     "materialize-css": "^1.0.0"
   },
